@@ -1,30 +1,7 @@
-```text
-   ▄████████  ▄█          ▄▄▄▄███▄▄▄▄    ▄██████▄     ▄██████▄  
-  ███    ███ ███        ▄██▀▀▀███▀▀▀██▄ ███    ███   ███    ███ 
-  ███    ███ ███        ███   ███   ███ ███    ███   ███    █▀  
-  ███    ███ ███        ███   ███   ███ ███    ███  ▄███        
-▀███████████ ███        ███   ███   ███ ███    ███ ▀▀███ ████▄  
-  ███    ███ ███        ███   ███   ███ ███    ███   ███    ███ 
-  ███    ███ ███▌    ▄  ███   ███   ███ ███    ███   ███    ███ 
-  ███    █▀  █████▄▄██   ▀█   ███   █▀   ▀██████▀    ████████▀  
-             ▀                                                  
-   ▄████████    ▄████████    ▄████████    ▄████████ ███▄▄▄▄         ▄████████  ▄█
-  ███    ███   ███    ███   ███    ███   ███    ███ ███▀▀▀██▄        ███    ███ ███
-  ███    ███   ███    ███   ███    █▀    ███    █▀  ███   ███         ███    ███ ███
-  ███    ███  ▄███▄▄▄▄██▀   ███         ▄███▄▄▄     ███   ███      ███    ███ ███
-▀███████████ ▀▀███▀▀▀▀▀   ▀███████████ ▀▀███▀▀▀     ███   ███  ▀███████████ ███
-  ███    ███ ▀███████████          ███   ███    █▄  ███   ███         ███    ███ ███
-  ███    ███   ███    ███    ▄█    ███   ███    ███ ███   ███         ███    ███ ███▌    ▄ 
-  ███    █▀    ███    ███  ▄████████▀    ██████████  ▀█   █▀        ███    █▀  █████▄▄██
-               ███    ███                                       
-             
-```
-
-
 # ALMOG ARSENAL
-This repository is a collection of tools, scripts, and resources for conducting security testing and ethical hacking on mobile devices, personal computers, and microcontrollers. Organized by platform and attack vector, it serves as a modular arsenal for penetration testers, red teamers, and researchers using environments like Kali Linux, Android, and embedded systems.
+This repository is a collection of tools, scripts, and resources for conducting security testing and ethical hacking on mobile devices, personal computers, and microcontrollers. Organized by platform and attack vector, it serves as a modular arsenal for penetration testers, red teamers, and researchers using environments like Linux (fedora and debian, for other distros check each tool you want to use), Android, and embedded systems.
 
-part of this repository is also for general disruption and trolling. remember that it's important to get consent from the attacked party when using these tools.
+part of this repository is also for general disruption and trolling. mostly it will just be my dump of cool tools I like so stay tuned
 
 
 
